@@ -1,0 +1,11 @@
+.chart_container{
+    display: flex;
+    width: 50vw;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8dfff;
+    flex-wrap: wrap;
+    
+}
